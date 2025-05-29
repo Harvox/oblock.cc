@@ -1,3 +1,3 @@
 return {
-  ["Tha Bronx"] = 1.0
+  ["Tha Bronx"] = "1.0"
 }
