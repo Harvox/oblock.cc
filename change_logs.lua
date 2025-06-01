@@ -1,5 +1,5 @@
 return {
   ["Tha Bronx"] = {
-    "- No current changes!"
+    "- Fixed loader not popping up."
   };
 }
