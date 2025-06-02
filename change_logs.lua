@@ -4,5 +4,6 @@ return {
     "- Fixed tp bypass on Solara",
     "- Fixed autofarms on Solara",
     "- New tp bypass",
+    "- Safezone checks are fixed",
   };
 }
