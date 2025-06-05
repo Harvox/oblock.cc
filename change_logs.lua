@@ -5,5 +5,6 @@ return {
     "- Fixed autofarms on Solara",
     "- New tp bypass",
     "- Safezone checks are fixed",
+    "- Gun Mods are fixed",
   };
 }
