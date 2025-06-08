@@ -6,5 +6,6 @@ return {
     "- New tp bypass",
     "- Safezone checks are fixed",
     "- Gun Mods are fixed",
+    "- Infinite money & dupe fixed",
   };
 }
