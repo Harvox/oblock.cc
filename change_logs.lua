@@ -7,5 +7,6 @@ return {
     "- Safezone checks are fixed",
     "- Gun Mods are fixed",
     "- Infinite money & dupe fixed",
+    "- New Visuals"
   };
 }
