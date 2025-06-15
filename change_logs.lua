@@ -9,4 +9,7 @@ return {
     "- Infinite money & dupe fixed",
     "- New Visuals"
   };
+  ["Dahood"] = {
+    "- No current updates",
+  }
 }
