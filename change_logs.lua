@@ -9,7 +9,7 @@ return {
     "- Infinite money & dupe fixed",
     "- New Visuals"
   };
-  ["Dahood"] = {
+  ["South Bronx"] = {
     "- No current updates",
   }
 }
