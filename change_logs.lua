@@ -7,9 +7,11 @@ return {
     "- Safezone checks are fixed",
     "- Gun Mods are fixed",
     "- Infinite money & dupe fixed",
-    "- New Visuals"
+    "- New Visuals",
+    "- New ESP",
   };
   ["South Bronx"] = {
-    "- No current updates",
+    "- New ESP",
+    "- Crashing resolved",
   }
 }
