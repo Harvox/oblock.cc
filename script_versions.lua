@@ -1,4 +1,4 @@
 return {
-  ["Tha Bronx"] = "1.3";
-  ["South Bronx"] = "1.0"
+  ["Tha Bronx"] = "2.3";
+  ["South Bronx"] = "1.2"
 }
