@@ -9,6 +9,7 @@ return {
     "- Infinite money & dupe fixed",
     "- New Visuals",
     "- New ESP",
+    "- Fixed features not working on mobile",
   };
   ["South Bronx"] = {
     "- New ESP",
