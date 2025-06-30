@@ -1,7 +1,7 @@
 -- This file was protected using Luraph Obfuscator v14.4.1 [https://lura.ph/]
 --[[
 oblock.cc - Loader
-Build: 2.0
+Build: 2.1
 Supported Games: Tha Bronx 3 / South Bronx
 ]]
 
