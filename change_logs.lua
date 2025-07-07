@@ -10,9 +10,13 @@ return {
     "- New Visuals",
     "- New ESP",
     "- Fixed features not working on mobile",
+    "- UI reworked",
   };
   ["South Bronx"] = {
     "- New ESP",
     "- Crashing resolved",
+    "- Removed Rollback Dupe",
+    "- Added Instant Kill to Players",
+    "- UI reworked",
   }
 }
